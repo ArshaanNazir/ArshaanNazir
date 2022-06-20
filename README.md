@@ -20,9 +20,13 @@
 
 ☞ NoSQL database management (MongoDB).
 
-☞ AWS/ES2/S3 management;
+☞ AWS/EC2/S3 management;
 
 ☞ Docker
+
+☞ Kubernetes
+
+☞ MLflow
 
 ☞ Python
 
@@ -43,6 +47,8 @@
 ☞ Computer Vision
 
 ☞ PowerBI dashboards
+
+☞ Power Apps
 
 
 
