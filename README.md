@@ -96,7 +96,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=ArshaanNazir&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArshaanNazir&theme=radical&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=0)
+[![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ArshaanNazir&include_all_commits=true&count_private=true&theme=radical&show_icons=true)](https://github.com/ArshaanNazir)
 
 <!---
 ArshaanNazir/ArshaanNazir is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
